@@ -1,2 +1,3 @@
-# CalCom Solar - Python Repo
-This is the place to build and share tools and scripts (in Python) for CalCom Solar.
+# CMT Scraper
+
+If you have questions about this script or other scripts in the calcomsolar repo, please contact brendan@calcomsolar.com
